@@ -1,0 +1,11 @@
+{
+  "data": {
+    "character": {
+      "id": "3",
+      "name": "Summer Smith",
+      "status": "Alive",
+      "type": "",
+      "gender": "Female"
+    }
+  }
+}

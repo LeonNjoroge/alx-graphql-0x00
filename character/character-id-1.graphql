@@ -1,0 +1,9 @@
+query Character{
+    character(id: 1){
+        id
+        name
+        status
+        type
+        gender
+    }
+}
